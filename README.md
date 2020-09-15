@@ -4,6 +4,6 @@
 
 Este é um repositório com o exemplo criado pelo Google Colaboratory.
 
-aula01.ipnyb
+[aula01.ipynb] (/aula01.ipynb)
 
 
