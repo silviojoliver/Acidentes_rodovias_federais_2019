@@ -1,7 +1,13 @@
 # Análise dos Acidentes nas rodovias federais em 2019
 
 
+## Ferramentas de análise utilizadas:
+
+1 . O pandas profiling é uma ferramenta que gera um relatório html com informações estatísticas e as principais características do seu dataframe em apenas uma linha de código.
+
 Fonte: https://arquivos.prf.gov.br/arquivos/index.php/s/vw74viLA7WuZI4H
+
+
 
 
 
