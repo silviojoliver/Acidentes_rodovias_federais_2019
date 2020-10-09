@@ -1,6 +1,9 @@
 # Análise dos Acidentes nas rodovias federais em 2019
 
+
 Fonte: https://arquivos.prf.gov.br/arquivos/index.php/s/vw74viLA7WuZI4H
+
+
 
 Antes da visualização final foi feita a limpeza e a transformação dos dados usando Pandas e Python.
 
