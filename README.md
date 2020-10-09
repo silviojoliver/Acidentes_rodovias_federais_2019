@@ -2,7 +2,7 @@
 
 Fonte: https://arquivos.prf.gov.br/arquivos/index.php/s/vw74viLA7WuZI4H
 
-Antes da visualização final foi feita a limpeza e a transformação dos dados usando Pandas e Python, você pode acompanhar o passo a passo no arquivo Analise_Acidentes.ipynb.
+Antes da visualização final foi feita a limpeza e a transformação dos dados usando Pandas e Python.
 
 Através dessa análise procurei responder as seguintes questões
 
