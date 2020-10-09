@@ -3,7 +3,11 @@
 
 ## Ferramentas de análise utilizadas:
 
-1 . O pandas profiling é uma ferramenta que gera um relatório html com informações estatísticas e as principais características do seu dataframe em apenas uma linha de código.
+1 . Pandas profiling é uma ferramenta que gera um relatório html com informações estatísticas e as principais características do seu dataframe em apenas uma linha de código.
+
+2. Sweetviz é uma biblioteca python que se concentra em explorar os dados com a ajuda de belas visualizações de alta densidade. Ele não apenas automatiza o EDA, mas também é usado para comparar conjuntos de dados e fazer inferências a partir deles.
+
+
 
 Fonte: https://arquivos.prf.gov.br/arquivos/index.php/s/vw74viLA7WuZI4H
 
